@@ -165,6 +165,13 @@ console.log( obj );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/for-each-right`][@stdlib/utils/for-each-right]: invoke a function for each element in a collection, iterating from right to left.
+-   [`@stdlib/utils/key-by`][@stdlib/utils/key-by]: convert a collection to an object whose keys are determined by a provided function and whose values are the collection values.
+
 </section>
 
 <!-- /.related -->
@@ -231,6 +238,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 
 [mdn-object]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
+
+<!-- <related-links> -->
+
+[@stdlib/utils/for-each-right]: https://github.com/stdlib-js/utils-for-each-right
+
+[@stdlib/utils/key-by]: https://github.com/stdlib-js/utils-key-by
+
+<!-- </related-links> -->
 
 </section>
 
