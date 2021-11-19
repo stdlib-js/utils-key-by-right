@@ -20,7 +20,7 @@ limitations under the License.
 
 # keyByRight
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Convert a collection to an object whose keys are determined by a provided function and whose values are the collection values, iterating from right to left.
 
@@ -169,8 +169,8 @@ console.log( obj );
 
 ## See Also
 
--   [`@stdlib/utils/for-each-right`][@stdlib/utils/for-each-right]: invoke a function for each element in a collection, iterating from right to left.
--   [`@stdlib/utils/key-by`][@stdlib/utils/key-by]: convert a collection to an object whose keys are determined by a provided function and whose values are the collection values.
+-   <span class="package-name">[`@stdlib/utils/for-each-right`][@stdlib/utils/for-each-right]</span><span class="delimiter">: </span><span class="description">invoke a function for each element in a collection, iterating from right to left.</span>
+-   <span class="package-name">[`@stdlib/utils/key-by`][@stdlib/utils/key-by]</span><span class="delimiter">: </span><span class="description">convert a collection to an object whose keys are determined by a provided function and whose values are the collection values.</span>
 
 </section>
 
@@ -221,8 +221,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/utils-key-by-right/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/utils-key-by-right?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/utils-key-by-right.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/utils-key-by-right/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
