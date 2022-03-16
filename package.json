@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-key-by-right",
-  "version": "0.0.8",
+  "version": "0.0.0",
   "description": "Convert a collection to an object whose keys are determined by a provided function and whose values are the collection values, iterating from right to left.",
   "license": "Apache-2.0",
   "author": {
