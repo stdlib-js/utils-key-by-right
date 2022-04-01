@@ -1,0 +1,43 @@
+{
+  "name": "@stdlib/utils-key-by-right",
+  "version": "0.0.0",
+  "description": "Convert a collection to an object whose keys are determined by a provided function and whose values are the collection values, iterating from right to left.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/utils-key-by-right.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdutils",
+    "stdutil",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "key",
+    "keyby",
+    "keybyright",
+    "right",
+    "object",
+    "obj",
+    "convert",
+    "transform",
+    "iterate",
+    "collection",
+    "array-like",
+    "array",
+    "typed-array",
+    "typed array"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
