@@ -177,8 +177,8 @@ console.log( obj );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/utils/for-each-right`][@stdlib/utils/for-each-right]</span><span class="delimiter">: </span><span class="description">invoke a function for each element in a collection, iterating from right to left.</span>
--   <span class="package-name">[`@stdlib/utils/key-by`][@stdlib/utils/key-by]</span><span class="delimiter">: </span><span class="description">convert a collection to an object whose keys are determined by a provided function and whose values are the collection values.</span>
+-   <span class="package-name">[`@stdlib/utils-for-each-right`][@stdlib/utils/for-each-right]</span><span class="delimiter">: </span><span class="description">invoke a function for each element in a collection, iterating from right to left.</span>
+-   <span class="package-name">[`@stdlib/utils-key-by`][@stdlib/utils/key-by]</span><span class="delimiter">: </span><span class="description">convert a collection to an object whose keys are determined by a provided function and whose values are the collection values.</span>
 
 </section>
 
