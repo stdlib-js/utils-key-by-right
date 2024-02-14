@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import keyByRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-key-by-right@deno/mod.js';
+import keyByRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-key-by-right@v0.2.0-deno/mod.js';
 ```
 
 #### keyByRight( collection, fcn\[, thisArg ] )
@@ -130,7 +130,7 @@ var mean = context.sum / context.count;
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import keyByRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-key-by-right@deno/mod.js';
+import keyByRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-key-by-right@v0.2.0-deno/mod.js';
 
 var arr;
 var obj;
